@@ -1,4 +1,4 @@
-package com.futsey.servlets.socket;
+package com.futsey.servlets;
 
 import java.io.IOException;
 import java.net.*;
