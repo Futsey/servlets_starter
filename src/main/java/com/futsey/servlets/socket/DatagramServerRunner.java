@@ -1,4 +1,4 @@
-package com.futsey.servlets;
+package com.futsey.servlets.socket;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
