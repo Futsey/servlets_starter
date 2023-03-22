@@ -20,8 +20,8 @@ public class UrlExample {
         urlConnection.setDoOutput(true);
 
         try (var outputStream = urlConnection.getOutputStream()) {
-        }
 
+        }
         System.out.println("");
     }
 }
